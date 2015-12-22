@@ -33,7 +33,7 @@ collections:
 markdown:    kramdown
 highlighter:  pygments
 excerpt_separator: <!--more-->
-encoding: Windows-1252
+#encoding: Windows-1252
 
 kramdown:
   auto_ids: true
